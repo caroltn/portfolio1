@@ -1,0 +1,1 @@
+document.getElementById('heading').classList.add('red')
