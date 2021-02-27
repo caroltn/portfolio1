@@ -8,4 +8,4 @@ I don't have much in my portfolio, but I thought it would be appropriate to link
 Please enjoy looking at my website!
 
 ## link to website
-https://caroltn.github.io/covid-resource/
+https://caroltn.github.io/portfolio1/
